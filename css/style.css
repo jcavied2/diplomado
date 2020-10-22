@@ -1,0 +1,21 @@
+.column{
+    background-color: black;
+    color: white;
+    font-size: 30px;
+    border: 1px solid white;
+}
+
+.cardtext{
+    color: black;
+    font-size: 10px;
+}
+
+.menutexts{
+    color: blue;
+    font-size: 12px;
+    background-color: darkgrey; 
+}
+
+.fondmen{
+    background-color: #343a40 ;
+}
